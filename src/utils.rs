@@ -1,6 +1,6 @@
 use semsimian::{Predicate, RustSemsimian};
-use std::path::{Path, PathBuf};
-
+// use std::path::{Path, PathBuf};
+use std::path::PathBuf;
 
 // const PHENIO_DB_URL: &str = "https://data.monarchinitiative.org/monarch-kg-dev/latest/phenio.db.gz";
 
