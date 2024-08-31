@@ -1,2 +1,6 @@
 /target
 .data
+data
+
+# Jetbrains IDE metadata ignored
+.idea
